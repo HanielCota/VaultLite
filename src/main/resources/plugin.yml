@@ -11,5 +11,3 @@ load: startup
 provides: [Vault]
 
 softdepend: [LuckPerms, PlaceholderAPI]
-
-
