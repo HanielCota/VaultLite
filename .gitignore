@@ -1,3 +1,17 @@
+# Gradle
+.gradle/
+build/
+
+# Maven leftovers
+target/
+
+# IDEs
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+
 */**/.classpath
 .classpath
 */**/.externalToolBuilders
